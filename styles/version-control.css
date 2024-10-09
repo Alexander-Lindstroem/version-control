@@ -25,7 +25,8 @@ body {
 }
 
 .git-commands {
-    color: #fff;
+    color: #37e10c;
+    border-radius: 10px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     display: grid;
     padding: 24px;
